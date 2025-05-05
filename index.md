@@ -10,3 +10,9 @@ My name is Rowan Christopher. I'm a plant biologist interested in the interactio
 I’m finishing my bachelors of science in biochemistry & molecular biology at Agnes Scott College with minors in mathematics and environmental & sustainability studies. In the fall, I will be starting my PhD at University of Georgia’s Integrated Plant Sciences program. 
 
 ### Check out some of my work:
+
+#### Predicting Carbon Flux from soil temperature, moisture, and microbe biodiversity
+
+Understanding how temperature affects carbon cycling is important when examining the effects of global climate change. Carbon flux is largely driven by photosynthesis and cellular respiration by soil bacteria. This project combines soil temperature, moisture, and microbe species data with carbon flux data in 13 different ecological domains in the United States. The goal is to understand whether soil temperature, moisture, or microbe biodiversity better explains carbon flux variation. 
+
+
