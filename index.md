@@ -18,8 +18,18 @@ Carbon flux is largely driven by photosynthesis and cellular respiration by soil
 This project combines soil temperature, moisture, and microbe species data with carbon flux data in 13 different ecological domains in the United States. 
 The goal is to understand whether soil temperature, moisture, or microbe biodiversity better explains carbon flux variation. 
 
+###### Carbon flux across 13 different ecological domains in the U.S.
 [![Carbon flux across 13 different ecological domains](/img/fx.site_boxplot.png)](https://github.com)
 
+
+###### Carbon flux plotted aginst soil moisture
+[![Carbon flux against soil moisture](/img/fx.moist_box.png)](https://github.com)
+
+###### Carbon flux plotted aginst soil temperature
+[![Carbon flux against soil moisture](/img/fx.temp_box2.png)](https://github.com)
+
+###### Carbon flux plotted aginst species richness of soil microbes
+[![Carbon flux against soil moisture](/img/fx.rich_box.png)](https://github.com)
 
 
 
