@@ -20,13 +20,15 @@ The goal is to understand whether soil temperature, moisture, or microbe biodive
 
 ###### Carbon flux across 13 different ecological domains in the U.S.
 [![Carbon flux across 13 different ecological domains](/img/fx.site_boxplot.png)](https://github.com)
-
+[![Code](SoilTemp_CFlux.R)](https://github.com)
 
 ###### Carbon flux plotted aginst soil moisture
 [![Carbon flux against soil moisture](/img/fx.moist_box.png)](https://github.com)
+[![Code](fx.SoilMoisture.R)](https://github.com)
 
 ###### Carbon flux plotted aginst soil temperature
 [![Carbon flux against soil moisture](/img/fx.temp_box2.png)](https://github.com)
+[![Code](SoilTemp_CFlux.R)](https://github.com)
 
 ###### Carbon flux plotted aginst species richness of soil microbes
 [![Carbon flux against soil moisture](/img/fx.rich_box.png)](https://github.com)
