@@ -32,6 +32,6 @@ The goal is to understand whether soil temperature, moisture, or microbe biodive
 
 ###### Carbon flux plotted aginst species richness of soil microbes
 [![Carbon flux against soil moisture](/img/fx.rich_box.png)](https://github.com)
-
+[![Code](microbes.R)](https://github.com)
 
 
